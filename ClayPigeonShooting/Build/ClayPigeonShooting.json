@@ -1,8 +1,6 @@
 {
 "TOTAL_MEMORY": 268435456,
 "dataUrl": "ClayPigeonShooting.data.unityweb",
-"wasmCodeUrl": "ClayPigeonShooting.wasm.code.unityweb",
-"wasmFrameworkUrl": "ClayPigeonShooting.wasm.framework.unityweb",
 "asmCodeUrl": "ClayPigeonShooting.asm.code.unityweb",
 "asmMemoryUrl": "ClayPigeonShooting.asm.memory.unityweb",
 "asmFrameworkUrl": "ClayPigeonShooting.asm.framework.unityweb",
